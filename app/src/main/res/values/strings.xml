@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash_Screen</string>
+    <string name="saludo">¡Bienvenido, bípedo!</string>
+    <string name="parrafada">Esta sería la primera Activity de la aplicación. Podría ser una Activity de Login, o cualquier otra. En el ejercicio de Tres en Raya, debería pasar directamente a la pantalla de juego. Opcionalmente, se puede incluir alguna con las instrucciones para darle algo más de chicha.</string>
+</resources>
